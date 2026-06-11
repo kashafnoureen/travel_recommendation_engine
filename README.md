@@ -1,4 +1,4 @@
-# travel_recommendation_engine
+# Travel_Recommendation_Engine
 An intelligent recommendation engine that helps travelers discover attractions, restaurants, and destinations tailored to their preferences.
 # Travel Attraction Recommendation System
 
